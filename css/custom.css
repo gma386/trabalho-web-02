@@ -1,0 +1,41 @@
+.container{
+    background-color: darkgray;
+}
+
+.nav-pills{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: chartreuse;
+    padding: 10px;
+}
+
+#container-conteudo{
+    margin-top:10px;
+    margin-bottom:16px;
+    background-color: cornflowerblue;
+
+}
+
+#row-custom1{
+    background-color: crimson;
+    margin-bottom:10px;
+    
+}
+
+#coluna-conteudo-1{
+    background-color: darkred;
+    min-height: 45vh;
+
+}
+
+#coluna-conteudo-2{
+    background-color: blue
+    
+}
+
+#rodape{
+    background-color: coral;
+    min-height: 35vh;
+
+    
+}
